@@ -145,7 +145,7 @@ Transform:
   m_GameObject: {fileID: 48736918}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.783, z: 0}
+  m_LocalPosition: {x: 0, y: 0.783, z: -3.01}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -166,7 +166,7 @@ MonoBehaviour:
   distanceBetweenSegments: 0.4
   ropeRadius: 0.2
   iterationCount: 3
-  segmentCount: 20
+  segmentCount: 25
   ropeFixedUpdateSteps: 1
   ropeStart: {fileID: 97772131}
 --- !u!1 &97772130
@@ -194,7 +194,7 @@ Transform:
   m_GameObject: {fileID: 97772130}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.21500003, z: -1.67}
+  m_LocalPosition: {x: 0, y: -0.21500003, z: -2.07}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
